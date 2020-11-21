@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">WiFi Power Controller</string>
+    <string name="controller_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="monday">Mn</string>
+    <string name="tuesday">Ts</string>
+    <string name="wednesday">Wd</string>
+    <string name="thursday">Th</string>
+    <string name="friday">Fr</string>
+    <string name="saturday">St</string>
+    <string name="sunday">Sn</string>
+    <string name="command">Command</string>
+    <string name="channel">Channel</string>
+    <string name="aeration">Aeration</string>
+    <string name="filter">Filter</string>
+    <string name="heating">Heating</string>
+    <string name="illumination">Illumination</string>
+    <string name="never">Never</string>
+    <string name="every_day">Every day</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="delete">Delete</string>
+    <string name="find">Find</string>
+    <string name="title_activity_search_result">Search Result</string>
+    <string name="not_found">Not found</string>
+    <string name="edit_devises">Edit Devises</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="ip">IP</string>
+    <string name="select_img">Select</string>
+    <string name="has_update">Has update firmware</string>
+    <string name="update">Update</string>
+    <string name="schedule">Schedule</string>
+    <string name="lighting">Lighting</string>
+    <string name="lighting_on">Lighting On</string>
+    <string name="lighting_off">Lighting Off</string>
+    <string name="has_apk_update">Has programm update. Click for download it.</string>
+    <string name="connect_error">Connection error</string>
+</resources>

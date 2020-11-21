@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/controller_schedule"
+        android:orderInCategory="100"
+        android:title="@string/schedule"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/controller_lighting"
+        android:orderInCategory="100"
+        android:title="@string/lighting"
+        app:showAsAction="never" />
+
+</menu>

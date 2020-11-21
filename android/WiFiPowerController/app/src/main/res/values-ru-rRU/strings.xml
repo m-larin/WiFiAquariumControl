@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="controller_settings">Настройки</string>
+    <string name="save">Сохранить</string>
+    <string name="add">Добавить</string>
+    <string name="channel">Канал</string>
+    <string name="command">Команда</string>
+    <string name="friday">Пт</string>
+    <string name="monday">Пн</string>
+    <string name="saturday">Сб</string>
+    <string name="sunday">Вс</string>
+    <string name="thursday">Чт</string>
+    <string name="tuesday">Вт</string>
+    <string name="wednesday">Ср</string>
+    <string name="aeration">Аэрация</string>
+    <string name="every_day">Каждый день</string>
+    <string name="filter">Фильтр</string>
+    <string name="heating">Обогрев</string>
+    <string name="illumination">Освещение</string>
+    <string name="never">Никогда</string>
+    <string name="off">Выкл</string>
+    <string name="on">Вкл</string>
+    <string name="delete">Удалить</string>
+    <string name="find">Найти</string>
+    <string name="title_activity_search_result">Результат поиска</string>
+    <string name="not_found">Устройства не найдены</string>
+    <string name="edit_devises">Редактор устройств</string>
+    <string name="id">ID</string>
+    <string name="name">Имя</string>
+    <string name="ip">IP</string>
+    <string name="select_img">Выбрать</string>
+    <string name="has_update">Имеется обновление прошивки</string>
+    <string name="update">Обновить</string>
+    <string name="schedule">Рассписание</string>
+    <string name="lighting">Освещенность</string>
+    <string name="lighting_on">Освещенность для включения</string>
+    <string name="lighting_off">Освещенность для выключения</string>
+    <string name="has_apk_update">Найдено обновление приложения. Нажмите, чтобы скачать его.</string>
+    <string name="connect_error">Connection error</string>
+</resources>
